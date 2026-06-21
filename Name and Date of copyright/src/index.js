@@ -19,6 +19,8 @@ root.render(
     <p>
       Created by {fName} {lName}.
     </p>
-    <p>Copyright {currentYear}.</p>
+    <p>
+      Copyright {currentYear}.
+    </p>
   </div>
 );
